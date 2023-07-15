@@ -1,0 +1,34 @@
+[EXPEDITION LOGGER] - 7/14/2023 7:30:56 AM
+Add challenge type: Passage
+Add challenge type: Cycle Score
+Add challenge type: Echo
+Add challenge type: Overall Score
+Add challenge type: Hunting
+Add challenge type: Item Collecting
+Add challenge type: Neuron Gifting
+Add challenge type: Pearl Delivery
+Add challenge type: Pearl Hoarding
+Add challenge type: Spear Pinning
+Add challenge type: Vista Visiting
+Earn 20 points from creature kills this cycle [0/20]
+[Yellow] Recreated CycleScoreChallenge : 20><0><0><0
+Reach the vista point in Chimney Canopy
+[Yellow] Recreated VistaChallenge : CC><CC_A10><734><506><0><0><0
+Store 2 colored pearls in a shelter in Farm Arrays
+[Yellow] Recreated PearlHoardChallenge : 0><2><LF><0><0><0
+Store 2 Fly Lures in the same shelter
+[Yellow] Recreated ItemHoardChallenge : 2><FlyLure><0><0><0
+Kill Large Noodleflies [0/4]
+[Yellow] Recreated HuntChallenge : BigNeedleWorm><4><0><0><0><0
+Visit the Chimney Canopy Echo
+[White] Recreated EchoChallenge : CC><0><0><0
+Neurons delivered to Looks to the Moon [0/1]
+[White] Recreated NeuronDeliveryChallenge : 1><0><0><0><0
+Visit the Sky Islands Echo
+[White] Recreated EchoChallenge : SI><0><0><0
+Visit the The Exterior Echo
+[White] Recreated EchoChallenge : UW><0><0><0
+Earn 50 points from creature kills this cycle [0/50]
+[White] Recreated CycleScoreChallenge : 50><0><0><0
+Yellow content: rwremix<mod>expedition<mod>devtools<mod>moreslugcats
+White content: rwremix<mod>expedition<mod>devtools<mod>moreslugcats
